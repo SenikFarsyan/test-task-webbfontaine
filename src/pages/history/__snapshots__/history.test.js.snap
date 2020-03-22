@@ -8,7 +8,7 @@ exports[`connected react-redux GameHistory component should render with given st
     Here are your scores
   </h3>
   <ol
-    className="history-list"
+    className="historyList"
   >
     <li>
       <span>

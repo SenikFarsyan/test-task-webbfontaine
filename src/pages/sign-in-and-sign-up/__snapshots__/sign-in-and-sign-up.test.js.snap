@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`connected react-redux SignInAndSignUpPage component should render with given state from Redux store 1`] = `
+<div
+  className="signinAndSignup"
+>
+  <h3>
+    Sign in and Sign up page
+  </h3>
+  <form
+    className="form"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="name"
+      required={true}
+      type="text"
+      value=""
+    />
+    <input
+      onChange={[Function]}
+      placeholder="password"
+      required={true}
+      type="password"
+      value=""
+    />
+    <div>
+      <input
+        name="register"
+        onClick={[Function]}
+        type="button"
+        value="Register"
+      />
+      <input
+        name="signin"
+        onClick={[Function]}
+        type="button"
+        value="Signin"
+      />
+    </div>
+  </form>
+  <div
+    className="successMessage "
+  >
+    <p />
+    <p />
+  </div>
+</div>
+`;
