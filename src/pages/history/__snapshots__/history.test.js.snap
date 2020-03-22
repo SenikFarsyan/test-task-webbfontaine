@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`connected react-redux GameHistory component should render with given state from Redux store 1`] = `
+<div
+  className="container"
+>
+  <h3>
+    Here are your scores
+  </h3>
+  <ol
+    className="history-list"
+  >
+    <li>
+      <span>
+        50
+         wpm
+      </span>
+       
+      <span>
+        in a month
+      </span>
+    </li>
+    <li>
+      <span>
+        30
+         wpm
+      </span>
+       
+      <span>
+        in 2 months
+      </span>
+    </li>
+  </ol>
+</div>
+`;

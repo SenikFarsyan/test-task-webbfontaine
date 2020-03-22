@@ -1,0 +1,8 @@
+.scoresList {
+  margin-left: -20px;
+  line-height: 1.5;
+  min-width: 410px;
+}
+.scoresList span {
+  padding: 10px;
+}
